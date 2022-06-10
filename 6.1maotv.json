@@ -6,7 +6,7 @@
             "name": "redirect",
             //上海电信组播IPTV
             "urls": [
-                "https://ghproxy.com/https://raw.githubusercontent.com/MayiYizhi/catvod/main/ShanghaiLive/maolive.json"
+                "https://cdn.jsdelivr.net/gh/Cyril0563/lanjing_live@main/hd/live_plus.json"
             ]
         }]
     }],
