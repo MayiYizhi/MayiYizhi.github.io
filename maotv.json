@@ -7,7 +7,7 @@
                 {
                     "name": "redirect",
                     "urls": [
-                        "https://cdn.jsdelivr.net/gh/Cyril0563/lanjing_live@main/hd/live_plus.json"
+                        "http://tv.jthn.cn/lives/live_plus.txt"
                     ]
                 }
             ]
