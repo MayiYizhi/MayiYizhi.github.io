@@ -7,7 +7,7 @@
                 {
                     "name": "redirect",
                     "urls": [
-                        "http://tv.jthn.cn/lives/live_plus.txt"
+                        "proxy://do=live&type=txt&ext=tv.jthn.cn/lives/live_plus.txt"
                     ]
                 }
             ]
