@@ -7,7 +7,7 @@
                 {
                     "name": "redirect",
                     "urls": [
-                        "https://raw.githubusercontents.com/MayiYizhi/catvod/main/ShanghaiLive/maolive.json"
+                        "https://cdn.jsdelivr.net/gh/Cyril0563/lanjing_live@main/hd/live_plus.json"
                     ]
                 }
             ]
