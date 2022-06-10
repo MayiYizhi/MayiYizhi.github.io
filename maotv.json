@@ -1,5 +1,5 @@
 {
-    "spider": "https://raw.githubusercontents.com/aaccer/catvod/main/Spider/custom_spider.jar?raw=true;md5;77f10dd5ece345547056e55892d670bb",
+    "spider": "https://raw.githubusercontents.com/MayiYizhi/catvod/main/Spider/custom_spider.jar?raw=true;md5;77f10dd5ece345547056e55892d670bb",
     "lives": [
         {
             "group": "redirect",
@@ -7,7 +7,7 @@
                 {
                     "name": "redirect",
                     "urls": [
-                        "https://raw.githubusercontents.com/aaccer/catvod/main/ShanghaiLive/maolive.json"
+                        "https://raw.githubusercontents.com/MayiYizhi/catvod/main/ShanghaiLive/maolive.json"
                     ]
                 }
             ]
@@ -99,7 +99,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontents.com/aaccer/catvod/main/xpath/348dianying.json"
+            "ext": "https://raw.githubusercontents.com/MayiYizhi/catvod/main/xpath/348dianying.json"
         },
         {
             "key": "csp_xpath_dadagui",
@@ -109,7 +109,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontents.com/aaccer/catvod/main/xpath/dadagui.json"
+            "ext": "https://raw.githubusercontents.com/MayiYizhi/catvod/main/xpath/dadagui.json"
         },
         {
             "key": "csp_xpath_jubaibai",
@@ -119,7 +119,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontents.com/aaccer/catvod/main/xpath/jubaibai.json"
+            "ext": "https://raw.githubusercontents.com/MayiYizhi/catvod/main/xpath/jubaibai.json"
         },
         {
             "key": "csp_xpath_juhuang",
@@ -129,7 +129,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontents.com/aaccer/catvod/main/xpath/juhuangtv.json"
+            "ext": "https://raw.githubusercontents.com/MayiYizhi/catvod/main/xpath/juhuangtv.json"
         },
         {
             "key": "csp_xpath_yanaifei",
@@ -139,7 +139,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontents.com/aaccer/catvod/main/xpath/yanaifei.json"
+            "ext": "https://raw.githubusercontents.com/MayiYizhi/catvod/main/xpath/yanaifei.json"
         },
         {
             "key": "csp_xpath_tiantian",
@@ -149,7 +149,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontents.com/aaccer/catvod/main/xpath/tiantianyingshi.json"
+            "ext": "https://raw.githubusercontents.com/MayiYizhi/catvod/main/xpath/tiantianyingshi.json"
         },
         {
             "key": "csp_xpath_auete",
@@ -159,7 +159,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontents.com/aaccer/catvod/main/xpath/auete.json"
+            "ext": "https://raw.githubusercontents.com/MayiYizhi/catvod/main/xpath/auete.json"
         },
         {
             "key": "csp_xpath_cokemv",
@@ -169,7 +169,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontents.com/aaccer/catvod/main/xpath/cokemv.json"
+            "ext": "https://raw.githubusercontents.com/MayiYizhi/catvod/main/xpath/cokemv.json"
         },
         {
             "key": "Gimy",
@@ -179,7 +179,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontents.com/aaccer/catvod/main/xpath/Gimy.json"
+            "ext": "https://raw.githubusercontents.com/MayiYizhi/catvod/main/xpath/Gimy.json"
         },
         {
             "key": "csp_xpath_libv",
@@ -189,7 +189,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontents.com/aaccer/catvod/main/xpath/libv.json"
+            "ext": "https://raw.githubusercontents.com/MayiYizhi/catvod/main/xpath/libv.json"
         },
         {
             "key": "csp_xpath_lezhutv",
@@ -199,7 +199,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontents.com/aaccer/catvod/main/xpath/lezhutv.json"
+            "ext": "https://raw.githubusercontents.com/MayiYizhi/catvod/main/xpath/lezhutv.json"
         },
         {
             "key": "csp_xpath_saohuotv",
@@ -209,7 +209,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontents.com/aaccer/catvod/main/xpath/saohuo.json"
+            "ext": "https://raw.githubusercontents.com/MayiYizhi/catvod/main/xpath/saohuo.json"
         },
         {
             "key": "csp_xpath_zxzj",
@@ -219,7 +219,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontents.com/aaccer/catvod/main/xpath/zxzj.json"
+            "ext": "https://raw.githubusercontents.com/MayiYizhi/catvod/main/xpath/zxzj.json"
         },
         {
             "key": "csp_xpath_555",
@@ -229,7 +229,7 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://raw.githubusercontents.com/aaccer/catvod/main/xpath/555.json"
+            "ext": "https://raw.githubusercontents.com/MayiYizhi/catvod/main/xpath/555.json"
         },
         {
             "key": "csp_appysv2_团夕影视",
